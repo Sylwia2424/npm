@@ -1,0 +1,7 @@
+{
+  "name": "@sylwia/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Sylwia <sylwia_24_24@wp.pl>",
+  "license": "MIT"
+}
